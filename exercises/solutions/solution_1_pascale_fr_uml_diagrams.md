@@ -26,7 +26,7 @@ Les diagrammes de cas d'utilisation montrent les interactions entre les utilisat
 Il illustre la fonctionnalité du système, en se concentrant sur le comportement attendu du système et en montrant ce qui se passera et quand.
 Un diagramme de cas d'utilisation est souvent utilisé comme vue d'ensemble de haut niveau de la façon dont les utilisateurs et les systèmes interagissent. En conséquence, c'est un moyen utile pour un public non technique qui peut inclure des parties prenantes clés pour visualiser votre système.
 
- ### **Diagramme de séquençe**
+ ### **Diagramme de séquence**
 
  Les diagrammes de séquence, parfois appelés diagrammes d'événements, montrent l'ordre dans lequel vos objets interagissent. Cela inclut les lignes de vie de vos objets, les processus qui interagissent avec vos objets et les messages échangés entre les objets pour exécuter une fonction.
 
