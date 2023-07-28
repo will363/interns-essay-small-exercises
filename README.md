@@ -8,7 +8,9 @@ https://github.com/will363/interns-essay-small-exercises.git
 ## Exercices
 The following exercises are available in this repository:
 1. Writing an essay on UML diagrams (use case, sequence, class)
-2. [Add more exercises here]
+2. Writing an essay on MVC pattern
+3. Writing an essay on Design pattern
+4. [Add more exercises here]
 
 ## How to Complete an Exercise ?
 To complete an exercise, follow the instructions provided in the exercise description. Once you have completed the exercise, submit your essay to your supervisor by the deadline.
