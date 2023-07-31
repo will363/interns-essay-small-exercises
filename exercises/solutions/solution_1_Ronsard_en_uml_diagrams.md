@@ -1,4 +1,4 @@
-## Part 1
+# Part 1
 ### Introduction
 Unified Modeling Language (UML) is a standardized visual modeling language used in software engineering to represent different aspects of a system. UML diagrams provide a graphical representation of the system's structure, behavior, and interactions, making it easier for software developers and stakeholders to understand, communicate, and design complex software systems.
 
