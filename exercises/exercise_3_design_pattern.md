@@ -2,7 +2,7 @@
 Write an essay about design patterns: Repository, Dependency Injection, Observer and Decorator. The essay should be structured as follows:
 
 ### Introduction
-Explain why design patterns are useful.
+Explain why design patterns are useful. 
 
 ### Body
 Discuss each of the four patterns in detail.
@@ -31,7 +31,5 @@ The deadline for submitting your essay is July 31st, 2023.
 Good luck with your exercise! Let me know if you need any further assistance.
 
 The following resource may be helpful :
-- [Design Patterns for Modern Backend Development](https://www.freecodecamp.org/news/design-pattern-for-modern-backend-development-and-use-cases/amp/#repository-pattern)
-
 The objective of this essay is for you to understand the advantages of design patterns.
 
